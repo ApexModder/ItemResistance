@@ -27,7 +27,7 @@ jobs:
 
       # Ensure gradlew can be executed
       - name: Grant execute permission for Gradle
-      run: chmod +x gradlew
+        run: chmod +x gradlew
 
       # Build the artifacts
       - name: Build
