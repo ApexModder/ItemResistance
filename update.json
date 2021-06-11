@@ -7,8 +7,8 @@
 		"1.16.4-recommended": "2.1.0",
 		"1.16.4-latest": "2.1.0",
 		
-		"1.16.5-recommended": "4.0.0",
-		"1.16.5-latest": "4.0.0"
+		"1.16.5-recommended": "4.0.1",
+		"1.16.5-latest": "4.0.1"
 	},
 	"1.16.3": {
 		"1.0.2": "Initial mod release",
@@ -24,6 +24,7 @@
 	"1.16.5": {
 		"3.0.0": "Update to 1.16.5",
 		"3.1.0": "Updated to latest MinecraftForge (36.0.40) version\nRepackaged under `xyz.apex.forge.itemresistance`",
-		"4.0.0": "Update to latest MinecraftForge version (Now using Official mappings)\nUpdate templated mod setup"
+		"4.0.0": "Update to latest MinecraftForge version (Now using Official mappings)\nUpdate templated mod setup",
+		"4.0.1": "Final 1.16.5 Build\nBump mod version 4.0.0 -> 4.0.1\nUpdated to most recent Forge MDK Version (36.1.31)"
 	}
 }
