@@ -11,3 +11,4 @@ The following 2 tags are implement with this mod, they can only be applied to bl
 - **_[1.16.3](https://github.com/ApexModder/ItemResistance/tree/1.16.3)_**
 - **_[1.16.4](https://github.com/ApexModder/ItemResistance/tree/1.16.4)_**
 - **_[1.16.5](https://github.com/ApexModder/ItemResistance/tree/1.16.5)_**
+- **_[1.17](https://github.com/ApexModder/ItemResistance/tree/1.17)_** | **NOTE: _This version is still awaiting Forge 1.17_**
